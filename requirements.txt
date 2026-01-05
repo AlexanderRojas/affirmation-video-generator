@@ -1,0 +1,10 @@
+pyttsx3
+pydub
+pillow
+moviepy
+imageio-ffmpeg
+psutil
+
+
+
+  
